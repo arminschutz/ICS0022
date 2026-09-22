@@ -2,8 +2,7 @@
 # Checkpoint 1 — Design
 
 ## Architecture
-
-![System Architecture](Documents/Screenshot 2026-09-22 123659.png)
+![System Architecture](Documents/Screenshot%202026-09-22%20123659.png)
 
 The system consists of a CLI connected to the file manager. The file manager handles file storage and authentication.
 
