@@ -58,9 +58,6 @@ python -m file_manager
 secure-file-manager/
 ├── README.md
 ├── DESIGN.md
-├── requirements.txt
-├── src/
-├── tests/
-└── docs/
+├── Documents
 ```
 
