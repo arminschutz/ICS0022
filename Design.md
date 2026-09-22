@@ -3,7 +3,7 @@
 
 ## Architecture
 
-![System Architecture](documents/architecture.png)
+![System Architecture](Documents/Screenshot 2026-09-22 123659.png)
 
 The system consists of a CLI connected to the file manager. The file manager handles file storage and authentication.
 
